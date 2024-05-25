@@ -7,3 +7,7 @@ require './filters'
 ## Your test code can go here
 
 pp @candidates
+
+pp find(10)
+
+qualified_candidates(@candidates)
